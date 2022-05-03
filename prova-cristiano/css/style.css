@@ -1,0 +1,30 @@
+#foto{
+    margin-top: 2%;
+    padding: 20px;
+    width: 50%;
+    margin-left: 10%;
+    border-radius: 10px;
+    background: #6A6A6A;
+    color: black;
+}
+body{
+    background-color: black;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#valor{
+    text-align: center;
+    font-size: x-large;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 0;
+}
+#titulo{
+    text-transform: uppercase;
+}
+#botao {
+    margin-left: 69%;
+    margin-top: -80px;
+}
